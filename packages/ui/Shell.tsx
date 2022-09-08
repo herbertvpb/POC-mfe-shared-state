@@ -32,6 +32,7 @@ export const Shell: React.FunctionComponent<{
           height={60}
           p="xs"
           style={{
+            display: "flex",
             background: theme.colors.blue[8],
           }}
         >
